@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/subscriptions-tracker/static/css/main.a24a03ac.css",
+    "main.js": "/subscriptions-tracker/static/js/main.b9ee7d57.js",
+    "index.html": "/subscriptions-tracker/index.html",
+    "main.a24a03ac.css.map": "/subscriptions-tracker/static/css/main.a24a03ac.css.map",
+    "main.b9ee7d57.js.map": "/subscriptions-tracker/static/js/main.b9ee7d57.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a24a03ac.css",
+    "static/js/main.b9ee7d57.js"
+  ]
+}
